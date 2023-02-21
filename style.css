@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url(./IMAGE/4a96e602750b8ef669a77565becf3939.gif);
+    width: 100%;
+    background-size: cover;
+}
+.card{
+    border-radius: 10px;
+    height: 45vh;
+}
+.fa-key{
+    font-size: 100px;
+    color:grey;
+}
+.log{
+    font-size: 30px;
+    font-weight: 700;
+}
+.btn2{
+    background-color: grey;
+}
